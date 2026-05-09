@@ -47,9 +47,35 @@ Each service processes data in accordance with their own privacy policies. We on
 
 Your data is stored on secure cloud servers. We use industry-standard encryption for data in transit (TLS) and at rest. Authentication tokens are stored securely on your device using platform-native secure storage.
 
+<a id="account-deletion"></a>
 ## 6. Data Retention and Deletion
 
-Your account data and setups are retained for as long as your account is active. You may request deletion of your account and all associated data at any time by contacting us at [support@rcbench.app](mailto:support@rcbench.app) or by using the in-app "Delete Account" feature in the Profile screen. Upon account deletion, your personal data will be permanently removed within 30 days.
+Your account data and setups are retained for as long as your account is active.
+
+### How to delete your account
+
+**From within the app:**
+1. Open RC Bench
+2. Tap the Profile tab (bottom-right)
+3. Scroll to "Delete Account"
+4. Confirm the deletion when prompted
+
+**Without the app** (e.g. if you have uninstalled it):
+Email [support@rcbench.app](mailto:support@rcbench.app) with the subject "Account deletion request" from the email address tied to your account. We will process the deletion within 30 days.
+
+### What is deleted
+- Account credentials, email address, and display name
+- All saved setups, AI chat history, and uploaded photos
+- Team memberships and content you have shared with teams
+- Subscription state in our records (Apple and Google retain their own purchase records, which you can manage in your device's Subscriptions settings)
+
+### What is retained
+- Anonymized analytics events with no link to your identity
+- Transaction records required to comply with tax law (typically retained for up to 7 years)
+- Records under active legal hold or required by court order, if any
+
+Personal data is permanently removed within 30 days of your deletion request.
+
 
 ## 7. Your Rights
 
