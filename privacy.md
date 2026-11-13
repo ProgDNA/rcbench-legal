@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # RC Bench — Privacy Policy
 
-**Last updated:** 23 April 2026
+**Last updated:** 14 November 2026
 
 RC Bench ("we", "our", "us") is committed to protecting your privacy. This policy explains what information we collect, how we use it, and your rights regarding your data.
 
@@ -40,6 +40,7 @@ RC Bench uses the following third-party services:
 - **Supabase** — authentication and database hosting
 - **RevenueCat** — subscription management and in-app purchases
 - **Expo / React Native** — app framework and push notifications
+- **Resend** — sends account and help emails, such as tips for getting started. It receives your email address, the email's content and an account ID used in the unsubscribe link. Every help email has an unsubscribe link.
 
 Each service processes data in accordance with their own privacy policies. We only share the minimum data required for each service to function.
 
